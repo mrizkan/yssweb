@@ -12,7 +12,8 @@
                         business!</p>
                     <!-- Address -->
                     <p>
-                        <strong>Office:</strong> No 28, rue de moquet,<br> 75017 Paris, France.</p>
+                        <strong>Office:</strong> No 28, School Road, Ardenforest
+                        Henamulla , Panadura.</p>
                     <!-- Phone -->
                     <p>
                         <strong>Call Us:</strong> +94 777 998 889 or

@@ -17,7 +17,7 @@
                             <!-- Logo -->
 
                             <a class="navbar-brand" href="index.php">
-                                <img class="site_logo" alt="Site Logo" src="images/logo.png"/>
+                                <img class="site_logo" alt="Site Logo" src="<?=base_url()?>media/images/logo.png"/>
                             </a></div>
                         <!-- Navbar Collapse -->
                         <div class="navbar-collapse collapse">
@@ -173,5 +173,3 @@
     </div>
     <!-- Sticky Menu -->
 </header>
-
-<?php include('admin/functions/database.php'); ?>
